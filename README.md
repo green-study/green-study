@@ -1,4 +1,6 @@
 ### Hi I'm Subin Kim 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=green-study&show_icons=true&theme=radical)
 <!--
 **green-study/green-study** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
