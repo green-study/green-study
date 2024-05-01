@@ -29,10 +29,10 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </p>
 
-<p align="center">
-<br><br>
-<Strong>📧Email📧</Strong><br>soo010410@gmail.com<br>
+<br>
 
+<p align="center">
+<Strong>📧Email📧</Strong><br>soo010410@gmail.com<br>
 </p>
 
 <br>
