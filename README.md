@@ -11,7 +11,7 @@
     I'm a frontend developer.      
 </p>
 
-[Frontend 김수빈 | 포트폴리오](https://green-study.github.io/profile/)
+<a align="center" href="[이동할 위치](https://green-study.github.io/profile/)">[Frontend 김수빈 | 포트폴리오]</a>
 
 <br>
 
